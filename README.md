@@ -1,4 +1,4 @@
-#go-pglite uses a wasi version of pglite to have an embeddable postgres database in go
+# go-pglite uses a wasi version of pglite to have an embeddable postgres database in go
 
 * Currently only a extremely limited REPL somewhat works. No data is returned from the postgres wasi binary
 
